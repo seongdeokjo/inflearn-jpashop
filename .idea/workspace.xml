@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="278cc4ff-d195-47ca-9671-40a97c14ce2b" name="Changes" comment="" />
+    <list default="true" id="278cc4ff-d195-47ca-9671-40a97c14ce2b" name="Changes" comment="feat: inflearn - spring jpa shop - initial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="22lu69zJbMkLVlAqh5tX4tLIsem" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -40,8 +44,17 @@
       <workItem from="1640424319007" duration="16000" />
       <workItem from="1640424354061" duration="103000" />
       <workItem from="1640424470918" duration="35000" />
-      <workItem from="1640424520107" duration="137000" />
+      <workItem from="1640424520107" duration="183000" />
+      <workItem from="1640424793366" duration="20000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: inflearn - spring jpa shop - initial">
+      <created>1640424692812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640424692812</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: inflearn - spring jpa shop - initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: inflearn - spring jpa shop - initial" />
   </component>
 </project>
